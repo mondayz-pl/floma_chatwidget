@@ -296,7 +296,7 @@
             welcomeText: '',
             responseTimeText: '',
             poweredBy: {
-                text: 'Powered by P0 BU(ł)KI',
+                text: 'Powered by FLOMA',
                 link: 'https://floma.pl'
             }
         },
