@@ -224,6 +224,7 @@
             right: 20px;
             width: 60px;
             height: 60px;
+            padding: 0;
             border-radius: 30px;
             background: linear-gradient(135deg, var(--chat--color-primary) 0%, var(--chat--color-secondary) 100%);
             color: white;
